@@ -2,7 +2,7 @@
 
 //header('Content-Type: application/json');
 
-/* random comment */
+/* random comment 2 */
 require_once('StudentDB.php');
 
 $json_data = json_decode('{"first_name" : "Dale"}');
