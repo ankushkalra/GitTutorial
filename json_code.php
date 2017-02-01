@@ -4,7 +4,7 @@
 
 /* random comment 2 */
 
-/* random comment new */
+/* random comment new 2 */
 
 require_once('StudentDB.php');
 
